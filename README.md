@@ -1,8 +1,8 @@
 # Desafios de Programação em Python 🐍
 
-## Este repositório contém desafios de programação desenvolvidos em Python, seguindo uma estrutura semelhante ao LeetCode. Além dos desafios, também há alguns conteúdos estudados, mas o foco principal está na resolução prática dos desafios para aprimorar o entendimento e a capacitação.
+ Este repositório contém desafios de programação desenvolvidos em Python, seguindo uma estrutura semelhante ao LeetCode. Além dos desafios, também há alguns conteúdos estudados, mas o foco principal está na resolução prática dos desafios para aprimorar o entendimento e a capacitação.
 
-### 📌 O que você encontrará aqui?
+📌 O que você encontrará aqui?
 
 Desafios organizados por nível de dificuldade
 
