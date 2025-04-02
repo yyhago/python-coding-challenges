@@ -4,12 +4,8 @@
 
 📌 O que você encontrará aqui?
 
-Desafios organizados por nível de dificuldade
-
 Tópicos abordados (ex: algoritmos, estruturas de dados, programação dinâmica, etc.)
 
 Conteúdos de apoio estudados durante o aprendizado
-
-Soluções comentadas e otimizadas
 
 Sinta-se à vontade para contribuir e aprimorar suas habilidades! 🚀
