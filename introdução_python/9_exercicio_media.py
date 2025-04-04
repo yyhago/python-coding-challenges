@@ -15,4 +15,4 @@ if media >= 6:
 elif media >= 4:
     print(f'Aluno de recuperação com a nota {media}')
 else:
-    print(f'Aluno reprovado com a nota {media}')
+    print(f'Aluno reprovado com a nota {media}') 

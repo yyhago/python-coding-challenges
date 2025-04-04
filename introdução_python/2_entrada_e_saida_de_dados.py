@@ -11,7 +11,7 @@ idade = input("Digite a sua idade: \n")
 print(f'A sua idade é {idade} anos')
 
 
-
+ 
 
 
 

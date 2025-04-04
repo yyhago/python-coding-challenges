@@ -9,4 +9,4 @@ elif media == 1:
 elif media >= 2:
     print('REPROVADO')
 else:
-    print('EXPULSO')
+    print('EXPULSO') 

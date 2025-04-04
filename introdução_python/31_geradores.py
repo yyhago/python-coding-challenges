@@ -10,3 +10,4 @@ x = dobro(range(0, 100))
 for i in x:
     print(i)
 
+ 

@@ -6,4 +6,4 @@ soma = 0
 for i in x:
     soma += + i
 
-print(soma)
+print(soma) 

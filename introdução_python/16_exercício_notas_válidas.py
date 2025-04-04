@@ -8,4 +8,4 @@ while True:
         print(f'Nota armazenada com sucesso {nota_aluno}')
         break
     
-    print('Nota inválida digite novamente')
+    print('Nota inválida digite novamente') 
