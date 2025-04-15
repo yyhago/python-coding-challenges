@@ -1,1 +1,0 @@
-# Controller, controla a lógica da aplicação
