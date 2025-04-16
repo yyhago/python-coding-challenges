@@ -4,6 +4,8 @@ from dal import PessoaDal
 
 class PessoaController:
 
+    # Método responsável por verificar condições do input feito pelo usuário a ser cadastrado,
+    # e posteriormente salvar na método da minha classe PessoaDal, com suas propriedades. 
     @classmethod
     def cadastrar(cls, nome: str, idade: int, altura: float, cpf: str):
         
@@ -13,3 +15,8 @@ class PessoaController:
                 return True
             except:
                 return False
+            
+    # Retorna os usuários percorridos no método listarUsuarios() da minha classe PessoaDal.
+    @classmethod
+    def listarUsuarios(cls):
+        return PessoaDal.listarUsuarios()
