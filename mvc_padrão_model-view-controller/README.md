@@ -9,8 +9,6 @@ Este projeto é um sistema simples de gerenciamento de pessoas, usando a arquite
 - [x] Listar todas as pessoas
 - [ ] Buscar pessoa por CPF
 - [ ] Excluir pessoa por CPF
-- [ ] (Opcional) Salvar em arquivo JSON
-- [ ] (Opcional) Editar pessoa
 
 ---
 
