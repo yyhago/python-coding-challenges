@@ -20,3 +20,13 @@ class PessoaController:
     @classmethod
     def listarUsuarios(cls):
         return PessoaDal.listarUsuarios()
+    
+    # Retorna o usuário procurado no método buscaCPF() da minha classe PessoaDal.
+    @classmethod
+    def buscaCPF(cls, cpf_procurado: str):
+        return PessoaDal.buscaCPF(cpf_procurado)
+    
+    # Retorna o usuário procurado no método deletarUsuario() da minha classe PessoaDal.
+    @classmethod
+    def deletarUsuario(cls, cpf: str):
+        return PessoaDal.deletarUsuario(cpf)

@@ -7,8 +7,8 @@ Este projeto é um sistema simples de gerenciamento de pessoas, usando a arquite
 ## ✅ Funcionalidades
 - [x] Cadastro de pessoas
 - [x] Listar todas as pessoas
-- [ ] Buscar pessoa por CPF
-- [ ] Excluir pessoa por CPF
+- [x] Buscar pessoa por CPF
+- [x] Excluir pessoa por CPF
 
 ---
 
