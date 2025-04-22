@@ -1,11 +1,13 @@
-# Desafios de Programação em Python 🐍
+# Desafios e Estudos em Python 🐍
 
- Este repositório contém desafios de programação desenvolvidos em Python, seguindo uma estrutura semelhante ao LeetCode. Além dos desafios, também há alguns conteúdos estudados, mas o foco principal está na resolução prática dos desafios para aprimorar o entendimento e a capacitação.
+Este repositório reúne materiais de estudo e desafios de programação desenvolvidos em Python, com o objetivo de reforçar conceitos fundamentais da linguagem e da lógica de programação.
 
 📌 O que você encontrará aqui?
 
-Tópicos abordados (ex: algoritmos, estruturas de dados, programação dinâmica, etc.)
+🧠 Desafios práticos para treinar lógica, algoritmos e estruturas de dados
 
-Conteúdos de apoio estudados durante o aprendizado
+📚 Conteúdos estudados durante o processo de aprendizado
 
-Sinta-se à vontade para contribuir e aprimorar suas habilidades! 🚀
+💡 Exercícios para fixação de temas como programação orientada a objetos, programação funcional, recursão, entre outros
+
+Sinta-se à vontade para explorar, estudar e contribuir! 🚀
